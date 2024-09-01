@@ -4,6 +4,8 @@
 
 This project implements a distributed system for accelerated reinforcement learning (RL) training using peer-to-peer (P2P) technologies and parallel programming. The system leverages the computational power of multiple machines, each potentially equipped with GPUs, to accelerate the training of RL agents through distributed computing and federated learning.
 
+- Disclaimer I am aware the repo name is 'distributed-macs', originally this was going to be a geared towards mac but decided I wanted to implement CUDA for this as well and am too lazy to go about renaming the repository
+
 ## Key Features
 
 - Distributed RL training across a network of peer nodes
