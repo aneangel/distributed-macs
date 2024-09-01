@@ -1,8 +1,0 @@
-grpcio==1.56.2
-grpcio-tools==1.54.0
-protobuf==4.23.1
-asyncio==3.4.3
-psutil==5.9.5
-pytest==7.3.1
-black==24.3.0
-flake8==6.0.0
